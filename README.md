@@ -1,2 +1,3 @@
 # moduler-angularjs
-a boilerplate for moulder angularjs(1.x) project. Which has almost structure like angular 2+. 
+A boilerplate for moulder angularjs (1.x) project. Which has almost structure like angular 2+. Along with webpack. 
+>https://github.com/arpit-absyadav/moduler-angularjs
